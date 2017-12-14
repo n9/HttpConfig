@@ -1,0 +1,1 @@
+# HttpConfig (fork)Compilable sources from http://www.stevestechspot.com/ABetterHttpcfg.aspx. (I am not an author of this code.)## BuildingIn order to build it, copy `rc.exe` and `rcdll.dll` into `res\tools` from windows sdk.
